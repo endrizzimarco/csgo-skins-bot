@@ -1,0 +1,4 @@
+steampy
+bs4
+selenium
+webdriver-manager
